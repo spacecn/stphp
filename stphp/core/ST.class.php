@@ -57,9 +57,9 @@ class ST{
 		//错误处理函数
 		//error_reporting(E_ALL);
 		error_reporting(0);
-		register_shutdown_function(array('lib\Exception','fatalError'));
-		set_error_handler(array('lib\Exception','appError'));
-		set_exception_handler(array('lib\Exception','appException'));
+		register_shutdown_function(array('lib\Exception', 'fatalError'));
+		set_error_handler(array('lib\Exception', 'appError'));
+		set_exception_handler(array('lib\Exception', 'appException'));
 	}
 
 	/**
