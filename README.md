@@ -16,4 +16,4 @@ www.i3ui.com
     `[1] E_ERROR : 致命错误 => Class 'app/controllers/home/IndexController' not found`
 
 ---
-![image](http://github.com/spacecn/stphp/raw/master/otherfiles/error.jpg)
+![image](https://github.com/spacecn/stphp/raw/master/otherfiles/error.jpg)
